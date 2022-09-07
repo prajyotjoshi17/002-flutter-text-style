@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## Try Different options n TextStyle Class
 
-This project is a starting point for a Flutter application.
+- https://api.flutter.dev/flutter/painting/TextStyle-class.html
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot](./Screenshot_2022-09-07.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* options with <!> symbol are not explored
